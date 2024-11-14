@@ -1,6 +1,6 @@
 # 📝 Kode Talents
 
-## 🇷🇺 
+## RU
 
 **Проект:** Телеграм-бот для компании Kode, разработанный в рамках хакатона «Моя профессия – ИТ».
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🇺🇸 
+## EN
 
 **Project:** A Telegram bot developed for Kode as part of the hackathon "My Profession is IT."
 
